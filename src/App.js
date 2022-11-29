@@ -5,17 +5,17 @@ const kepek = [
   {
     id:1,
     nev:"kep",
-    eleresiUt:"./galeria/kepek/kep1.png"
+    eleresiUt:"kepek/kep1.png"
   },
   {
     id:2,
     nev:"kep",
-    eleresiUt:"./galeria/kepek/kep1.png"
+    eleresiUt:"kepek/kep1.png"
   },
   {
     id:3,
     nev:"kep",
-    eleresiUt:"./galeria/kepek/kep1.png"
+    eleresiUt:"kepek/kep1.png"
   }
 ]
 
